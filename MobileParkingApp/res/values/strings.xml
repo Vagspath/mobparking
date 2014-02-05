@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile Parking App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button1">είσοδος</string>
+    <string name="loginMessage">Πληκτρολογήστε  αριθμός πινακίδας και πατήστε είσοδο</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="choosemenu">Επιλέξετε ένα απο τα παρακάτω:</string>
+    <string name="title_activity_parking_request">ParkingRequest</string>
+    <string name="name">Ονομα</string>
+    <string name="surname">Επώνυμο</string>
+    <string name="callService">προώθηση Αίτησης</string>
+
+</resources>
